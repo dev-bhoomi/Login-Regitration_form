@@ -10,7 +10,7 @@ Insert gif or link to demo
 
 ## Deployment
 
-[Link to Deployed Application](https://dev-bhoomi.github.io/login_form/?)
+[Link to Deployed Application](https://dev-bhoomi.github.io/Login-Regitration_form/)
 
 
 
